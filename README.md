@@ -36,7 +36,6 @@ app/
    ```bash
    git clone https://github.com/<kullanici-adi>/<repo-adi>.git
    cd <repo-adi>
-````
 
 2. Sanal ortam oluştur ve etkinleştir:
 
