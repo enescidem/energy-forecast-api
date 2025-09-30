@@ -2,7 +2,7 @@
 
 ![Proje Dökümantasyon Görüntüsü](media/pictures.png)
 
-[Demo Videosunu İzle](media/video.mp4)
+https://github.com/user-attachments/assets/728e1832-4090-4f79-babd-586bc0877998
 
 Bu proje, **FastAPI** tabanlı bir REST API uygulamasıdır.  
 Kullanıcı kimlik doğrulama, enerji verilerinin yönetimi ve tahmin servisleri sunar.  
