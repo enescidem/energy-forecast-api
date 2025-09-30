@@ -1,8 +1,3 @@
-Süper 👍 O zaman **lisans kısmını çıkarıp** sana güncel README.md veriyorum:
-
----
-
-```markdown
 # ⚡ Energy Prediction API
 
 Bu proje, **FastAPI** tabanlı bir REST API uygulamasıdır.  
