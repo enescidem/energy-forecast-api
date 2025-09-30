@@ -4,8 +4,6 @@
 
 [Demo Videosunu İzle](media/video.mp4)
 
-
-
 Bu proje, **FastAPI** tabanlı bir REST API uygulamasıdır.  
 Kullanıcı kimlik doğrulama, enerji verilerinin yönetimi ve tahmin servisleri sunar.  
 
